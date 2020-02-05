@@ -23,7 +23,7 @@ $(function()
 	var songs = [{
 		artist: "Đức Phúc",
 		name: "Hết Thương Cạn Nhớ",
-		url: "C:\Users\admin\Documents\GitHub\MusicPlayer1\Musics\hethuongcannho.mp3",
+		url: "Musics\hethuongcannho.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
