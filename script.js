@@ -26,6 +26,10 @@ $(function()
 		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
+artist: "Đức Phúc",
+    name: "Hết Thương Cạn Nhớ",
+    url: "Musics/hetthuongcannho.mp3",
+    picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	
 	function shuffle(a) {
 		var j, x, i;
